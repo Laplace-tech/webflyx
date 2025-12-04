@@ -1,1 +1,11 @@
-node_modules
+# *.js
+secure
+
+advert.html
+
+*.txt
+!names.txt
+
+/src/main.py
+
+content.md
